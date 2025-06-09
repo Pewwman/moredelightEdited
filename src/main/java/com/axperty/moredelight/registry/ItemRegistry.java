@@ -262,6 +262,7 @@ public class ItemRegistry {
             () -> new ConsumableItem(foodItem((new FoodProperties.Builder())
                     .nutrition(4)
                     .saturationModifier(1.2f)
+                    .fast()
                     .build())));
     
 }
