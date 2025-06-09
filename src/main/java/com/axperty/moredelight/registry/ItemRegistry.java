@@ -257,4 +257,11 @@ public class ItemRegistry {
                     .nutrition(5)
                     .saturationModifier(0.6f)
                     .build())));
+
+    public static final DeferredItem<Item> GOLDEN_BEETROOT = ITEMS.register("golden_beetroot",
+            () -> new ConsumableItem(foodItem((new FoodProperties.Builder())
+                    .nutrition(4)
+                    .saturationModifier(1.2f)
+                    .build())));
+    
 }
