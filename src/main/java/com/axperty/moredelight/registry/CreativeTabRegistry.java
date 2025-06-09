@@ -55,6 +55,7 @@ public class CreativeTabRegistry {
                 }
                 output.accept(ItemRegistry.TOAST_WITH_GLOW_BERRIES.get());
                 output.accept(ItemRegistry.TOAST_WITH_CHOCOLATE.get());
+                output.accept(ItemRegistry.GOLDEN_BEETROOT.get());
                 if (ModList.get().isLoaded("casualness_delight") || ModList.get().isLoaded("expandeddelight")) {
                     output.accept(ItemRegistry.TOAST_WITH_CHEESE.get());
                 }
