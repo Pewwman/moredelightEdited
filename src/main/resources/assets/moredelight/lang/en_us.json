@@ -55,7 +55,7 @@
   "item.moredelight.toast_with_cheese": "Toast with Cheese",
   "item.moredelight.chicken_salad": "Chicken Salad",
   "item.moredelight.toast_with_blueberries": "Toast with Blueberries",
-
+  
   "item.moredelight.cooked_rice_with_chicken_cuts": "Cooked Rice with Chicken Cuts",
   "item.moredelight.cooked_rice_with_porkchop": "Cooked Rice with Porkchop",
   "item.moredelight.simple_hamburger": "Simple Hamburger",
@@ -69,5 +69,7 @@
   "item.moredelight.creamy_pasta_with_chicken_cuts": "Creamy Pasta with Chicken Cuts",
   "item.moredelight.diced_potatoes_with_egg_and_tomato": "Diced Potatoes with Egg and Tomato",
 
+  "item.moredelight.golden_beetroot": "Golden Beetroot"
+  
   "itemGroup.moredelight": "More Delight"
 }
